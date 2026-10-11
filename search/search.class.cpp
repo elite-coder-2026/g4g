@@ -62,4 +62,6 @@ bool SearchAlgorithms::ternary(vector<int>& arr, int x) {
             r = b - 1;
         }
     }
+
+    return false;
 }
